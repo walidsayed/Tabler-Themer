@@ -2,7 +2,7 @@
 
 <a href="https://buddy.works"><img src="https://assets.buddy.works/automated-dark.svg" alt="Automated by Buddy" align="right"></a>
 
-Premium and Open Source dashboard template with responsive and high quality UI.
+Open Source dashboard template with responsive and high quality UI.
 
 <strong><a href="https://tabler.github.io/demo/">View Demo</a> | <a href="https://github.com/tabler/tabler/archive/master.zip">Download ZIP</a> | <a href="https://goo.gl/zJP2dT">Join us on Slack</a></strong>
 
